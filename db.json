@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "0cf1",
+      "name": "coffee-beans",
+      "price": "$74",
+      "brand": "Yellow Beard",
+      "inventoryStatus": true
+    },
+    {
+      "id": "c651",
+      "name": "Sports shoes",
+      "price": "$160",
+      "brand": "Nike",
+      "inventoryStatus": true
+    },
+    {
+      "name": "Shirt sleeves",
+      "price": "$34",
+      "brand": "Jordans",
+      "inventoryStatus": false,
+      "id": "baa6"
+    },
+    {
+      "name": "Zinger Burger",
+      "price": "$29",
+      "brand": "MarkZingerBurger",
+      "inventoryStatus": false,
+      "id": "32ad"
+    },
+    {
+      "name": "coffee-beans",
+      "price": "$44",
+      "brand": "Daptia",
+      "inventoryStatus": true,
+      "id": "c36b"
+    }
+  ]
+}
